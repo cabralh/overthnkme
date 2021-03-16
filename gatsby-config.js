@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Overthinker`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Henry Cabral`,
+      summary: `When I'm overloaded with thoughts, I decompress my psyche here.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A space for my thoughts`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `cabralhjr`,
     },
   },
   plugins: [
