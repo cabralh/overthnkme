@@ -26,16 +26,16 @@ This section should list any major frameworks that you built your project using.
 Create a Gatsby site using the blog starter boilerplate:
 
 ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
+# create a new Gatsby site using the blog starter
+gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
+```
     
 ### Start developing:
 
 ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+cd my-blog-starter/
+gatsby develop
+```
     
 <!-- MORE INFORMATION -->
 ## More Information
