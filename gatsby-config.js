@@ -6,7 +6,7 @@ module.exports = {
       summary: `When I'm overloaded with thoughts, I decompress my psyche here.`,
     },
     description: `A space for my thoughts`,
-    siteUrl: `overthnk.me`,
+    siteUrl: `http://overthnk.me/`,
     social: {
       twitter: `cabralhjr`,
     },
