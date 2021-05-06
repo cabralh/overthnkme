@@ -6,7 +6,7 @@ module.exports = {
       summary: `When I'm overloaded with thoughts, I decompress my psyche here.`,
     },
     description: `A space for my thoughts`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `overthnk.me`,
     social: {
       twitter: `cabralhjr`,
     },
