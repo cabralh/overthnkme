@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Overthinker`,
+    title: `Overthink`,
     author: {
       name: `Henry Cabral`,
       summary: `When I'm overloaded with thoughts, I decompress my psyche here.`,
